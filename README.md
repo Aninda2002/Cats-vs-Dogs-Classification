@@ -1,4 +1,4 @@
-# 🐱 Cats vs Dogs Classification using Deep Learning
+# Cats vs Dogs Classification using Deep Learning
 
 A deep learning-based image classification project that identifies whether an image contains a cat or a dog using Convolutional Neural Networks (CNNs).
 
