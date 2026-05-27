@@ -2,7 +2,6 @@
 
 A deep learning-based image classification project that identifies whether an image contains a cat or a dog using Convolutional Neural Networks (CNNs).
 
-
 ---
 
 ## 📌 Project Overview
