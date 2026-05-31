@@ -4,7 +4,6 @@ A deep learning-based image classification project that identifies whether an im
 
 ---
 
-
 ## 📌 Project Overview
 
 This project builds an intelligent image classification system capable of distinguishing cats from dogs with high accuracy using Deep Learning and Computer Vision techniques.
