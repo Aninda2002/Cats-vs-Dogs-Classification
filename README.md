@@ -14,26 +14,29 @@ The model is trained on labeled image datasets and performs automatic feature ex
 
 ## 🚀 Features
 
-- CNN-based Image Classification
-- Image Preprocessing & Augmentation
-- Model Training & Evaluation
-- Prediction on Custom Images
-- Accuracy & Loss Visualization
-- TensorFlow/Keras Implementation
-- GPU Support
+- Cats vs Dogs Binary Image Classification
+- AlexNet Implementation from Scratch
+- VGG16 Implementation from Scratch
+- Transfer Learning with Pre-trained AlexNet
+- Transfer Learning with Pre-trained VGG16
+- Image Preprocessing and Data Augmentation
+- Model Training, Validation, and Testing
+- Performance Comparison of AlexNet and VGG16
+- Accuracy and Loss Curve Visualization
+- Custom Image Prediction Support
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Python
-- TensorFlow / Keras
+- PyTorch
+- Torchvision
 - NumPy
-- Pandas
 - Matplotlib
-- OpenCV
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
+- CUDA (GPU Support)
 
 ---
 
@@ -41,7 +44,8 @@ The model is trained on labeled image datasets and performs automatic feature ex
 
 Cats-vs-Dogs-Classification/
 │
-├── cats_vs_dogs.ipynb
+├── alexnet_and_vgg16_from_scratch.ipynb
+├── cats_vs_dogs_classification_using_pre_trained_alexnet_and_vgg16.ipynb
 └── README.md
 
 ---
@@ -100,7 +104,9 @@ jupyter notebook
 
 Open:
 
-cats_vs_dogs.ipynb
+cats_vs_dogs_classification_using_pre_trained_alexnet_and_vgg16.ipynb
+
+alexnet_and_vgg16_from_scratch.ipynb
 
 ---
 
