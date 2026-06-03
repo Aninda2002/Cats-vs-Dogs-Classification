@@ -44,8 +44,11 @@ The model is trained on labeled image datasets and performs automatic feature ex
 
 Cats-vs-Dogs-Classification/
 │
+
 ├── alexnet_and_vgg16_from_scratch.ipynb
+
 ├── cats_vs_dogs_classification_using_pre_trained_alexnet_and_vgg16.ipynb
+
 └── README.md
 
 ---
